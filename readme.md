@@ -6,5 +6,5 @@ But this is where our app is different. For these “tasks”, one cannot simply
 
 We understand that in this day and age, it’s harder than ever for the younger generation, and even current ones, to stay focused and manage their personal ambitions. With access to the Device Activity frameworks for screen time information and Managed settings to block certain apps, we will get one step closer to providing users a more fruitful experience by helping them stick to their plans and discouraging major distractions.
 
-App coming soon.
-Clustr Team
+_**App coming soon.
+Clustr Team**_
